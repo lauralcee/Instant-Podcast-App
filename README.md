@@ -1,1 +1,2 @@
-# Instant-Podcast-App
+# Instant Podcast App
+Pocket Casts is my favorite [instant podcast app](https://instantpodcast.app/). It's packed with features but remains easy and intuitive to use, and most importantly, it's free. It's simple to find the podcasts you're looking for, thanks to an easy-to-navigate interface that lets you browse through recommendations, subscribe, or listen directly. One of the most loved podcast player apps, Pocket Casts, is free for Android and iOS. It's also available on Amazon Echo, Apple CarPlay, Apple Watch, Android Auto, and other platforms, some of which are restricted to Plus members (macOS, Windows, web player). This app has a tidy interface and great features.
